@@ -1,0 +1,13 @@
+# Ignoring some of the files
+
+.DS_Store
+.project
+
+target/
+
+*.class
+*.exe
+*.jar
+
+*.idea
+*.iml
