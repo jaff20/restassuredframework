@@ -30,3 +30,14 @@ The test can be run in two ways
     b. Run as Maven for testng.xml (From Edit Config the mvn goal as mvn test)
     
 #[[5]]# Sample Report 
+
+IDE
+https://github.com/jaff20/restassuredframework/blob/master/TestResults.png
+
+
+MAVEN
+https://github.com/jaff20/restassuredframework/blob/master/MavenTestResults1.png
+
+
+https://github.com/jaff20/restassuredframework/blob/master/MavenTestResults2.png
+
